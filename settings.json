@@ -1,0 +1,20 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.sideBar.location": "left",
+    "workbench.colorTheme": "Monokai Dark Soda",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 18,
+    "git.enableSmartCommit": true,
+    "window.menuBarVisibility": "toggle",
+    "typescript.check.tscVersion": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "gitlens.stashExplorer.enabled": false,
+    "gitlens.blame.line.enabled": false,
+    "gitlens.codeLens.enabled": false
+}
