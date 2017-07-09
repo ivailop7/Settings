@@ -7,14 +7,16 @@
     "git.enableSmartCommit": true,
     "window.menuBarVisibility": "toggle",
     "typescript.check.tscVersion": false,
+    "gitlens.stashExplorer.enabled": false,
+    "gitlens.blame.line.enabled": false,
+    "gitlens.codeLens.enabled": false,
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
         "**/.hg": true,
         "**/CVS": true,
-        "**/.DS_Store": true
-    },
-    "gitlens.stashExplorer.enabled": false,
-    "gitlens.blame.line.enabled": false,
-    "gitlens.codeLens.enabled": false
+        "**/.DS_Store": true,
+        "**/.js": true,
+        "**/.js.map": true
+    }
 }
