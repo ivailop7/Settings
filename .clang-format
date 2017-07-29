@@ -1,0 +1,20 @@
+BasedOnStyle: WebKit
+---
+Language: Cpp
+IndentWidth: 4
+DerivePointerAlignment: false
+PointerAlignment: Left
+ColumnLimit: 120
+PenaltyReturnTypeOnItsOwnLine: 300
+BreakBeforeBraces: Custom
+BraceWrapping: {
+  AfterClass: 'true',
+  AfterControlStatement: 'true',
+  AfterFunction: 'true',
+  AfterStruct: 'true',
+  BeforeElse: 'true',
+  BeforeCatch: 'true'
+}
+NamespaceIndentation: None
+BinPackParameters: false
+AlignAfterOpenBracket: Align
