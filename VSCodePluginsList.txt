@@ -15,3 +15,6 @@ sftp 0.7.1
 Sublime Text Keymap 2.9.0
 TODO Highlight 0.5.5
 vscode-icons 7.10.1
+Clang-format 1.5.0
+CMake 0.0.17
+Python 0.6.9
