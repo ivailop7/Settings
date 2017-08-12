@@ -35,7 +35,7 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+f11",
+        "key": "f12",
         "command": "bookmarks.jumpToNext",
         "when": "editorTextFocus"
     },
@@ -45,7 +45,7 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+f10",
+        "key": "f10",
         "command": "bookmarks.jumpToPrevious",
         "when": "editorTextFocus"
     },
@@ -55,7 +55,31 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+f12",
+        "key": "ctrl+f11",
         "command": "bookmarks.listFromAllFiles"
+    },
+    {
+        "key": "alt+f",
+        "command": "workbench.action.closeFolder"
+    },
+    {
+        "key": "ctrl+k f",
+        "command": "-workbench.action.closeFolder"
+    },
+    {
+        "key": "alt+o",
+        "command": "workbench.action.openFolder"
+    },
+    {
+        "key": "ctrl+k ctrl+o",
+        "command": "-workbench.action.openFolder"
+    },
+    {
+        "key": "alt+q",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    },
+    {
+        "key": "alt+w",
+        "command": "workbench.action.closeActiveEditor"
     }
 ]
