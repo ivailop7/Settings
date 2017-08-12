@@ -4,7 +4,9 @@
     "workbench.colorTheme": "Monokai Dark Soda",
     "workbench.iconTheme": "vscode-icons",
     "editor.fontSize": 18,
+    "editor.tabSize": 4,
     "git.enableSmartCommit": true,
+    "git.autofetch": true,
     "window.menuBarVisibility": "toggle",
     "typescript.check.tscVersion": false,
     "gitlens.stashExplorer.enabled": false,
@@ -12,11 +14,22 @@
     "gitlens.codeLens.enabled": false,
     "files.exclude": {
         "**/.git": true,
-        "**/.svn": true,
-        "**/.hg": true,
-        "**/CVS": true,
-        "**/.DS_Store": true,
-        "**/.js": true,
-        "**/.js.map": true
+        "**/*.svn": true,
+        "**/*.hg": true,
+        "**/*CVS": true,
+        "**/*.DS_Store": true,
+        "**/*.js": true,
+        "**/*.js.map": true
+        "**/*.o": true,
+        "**/*.d": true,
+        "**/*.tsk": true
     }
+    "files.associations": {
+        "*.log.*": "log"
+    },
+    "editor.formatOnSave": false,
+    "C_Cpp.intelliSenseEngine": "Default",
+    "workbench.statusBar.visible": true,
+    "editor.minimap.maxColumn": 60,
+    "files.eol": "\r\n"
 }
