@@ -19,11 +19,11 @@
         "**/*CVS": true,
         "**/*.DS_Store": true,
         "**/*.js": true,
-        "**/*.js.map": true
+        "**/*.js.map": true,
         "**/*.o": true,
         "**/*.d": true,
         "**/*.tsk": true
-    }
+    },
     "files.associations": {
         "*.log.*": "log"
     },
