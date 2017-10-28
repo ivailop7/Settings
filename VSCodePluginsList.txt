@@ -1,22 +1,30 @@
-Alignment 0.3
-Auto Close Tag 0.4.3
-Bookmarks 0.15.2
-C/C++ 0.12.0
-Clang-format 1.5.0
-CMake 0.0.17
-Code Runner 0.6.24
-Debugger for Chrome 3.1.6
-gi 0.2.11
-Git Lens 4.3.1
-Git Merger 0.3.1
-Log File Highlighter 1.1.1
-Lua 0.0.9
-Lua 5.3 Debugger 0.1.1
-Monokai Dark Soda 0.0.5
-Monokai++ 1.6.0
-Partial Diff 0.3.1
-Python 0.7.0
-sftp 0.7.1
-Sublime Text Keymap 2.9.0
-TODO Highlight 0.5.5
-vscode-icons 7.10.1
+Alignment
+Auto Close Tag
+AutoTrim
+Bookmarks
+C/C++
+Clang-format
+CMake Tools
+Code Runner
+Debugger for Chrome
+ESLint
+FilePeek
+gi
+Git Lens
+GitHub Issues and PRs
+JSON Tools
+Log File Highlighter
+Lua
+Lua 5.3 Debugger
+Monokai Dark Soda
+Partial Diff
+Python
+sftp
+Sublime Text Keymap
+Text Pastry
+TODO Highlight
+TSLint
+TypeScript Importer
+vscode-icons
+vscode-lua
+XML Tools
