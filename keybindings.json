@@ -1,10 +1,6 @@
 // Place your key bindings in this file to overwrite the defaults
 [
     {
-        "key": "f8",
-        "command": "workbench.action.tasks.build"
-    },
-    {
         "key": "alt+m",
         "command": "workbench.action.toggleMenuBar"
     },
@@ -27,11 +23,6 @@
     {
         "key": "f11",
         "command": "bookmarks.toggle",
-        "when": "editorTextFocus"
-    },
-    {
-        "key": "ctrl+alt+k",
-        "command": "-bookmarks.toggle",
         "when": "editorTextFocus"
     },
     {
@@ -67,19 +58,28 @@
         "command": "-workbench.action.closeFolder"
     },
     {
-        "key": "alt+o",
-        "command": "workbench.action.openFolder"
-    },
-    {
-        "key": "ctrl+k ctrl+o",
-        "command": "-workbench.action.openFolder"
-    },
-    {
         "key": "alt+q",
         "command": "workbench.action.toggleActivityBarVisibility"
     },
     {
         "key": "alt+w",
         "command": "workbench.action.closeActiveEditor"
+    },
+    {
+        "key": "f8",          
+        "command": "workbench.action.tasks.build" 
+    },
+    {
+        "key": "alt+o",
+        "command": "workbench.action.files.openFolder"
+    },
+    {
+        "key": "ctrl+k ctrl+o",
+        "command": "-workbench.action.files.openFolder"
+    },
+    {
+        "key": "ctrl+shift+space",
+        "command": "-editor.action.trimTrailingWhitespace",
+        "when": "editorTextFocus && !editorReadonly"
     }
 ]
