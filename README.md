@@ -1,2 +1,3 @@
 # Settings Repo
-A list of settings file for Sublime Text 3, Tmux, Zsh, VSCode, VIM and others.
+
+My personal settings files for Visual Studio Code, Zsh, Tmux & Various Formatters.
