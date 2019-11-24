@@ -1,5 +1,5 @@
 {
-    "editor.fontSize": 14,
+    "editor.fontSize": 15,
     "editor.tabSize": 4,
     "editor.formatOnSave": false,
     "editor.minimap.enabled": false,
@@ -94,11 +94,11 @@
     "python.jediEnabled": false,
     "python.linting.pylintEnabled": true,
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
-    "python.pythonPath": "C:\\Program Files\\Python37\\python.exe",
+    "python.pythonPath": "/usr/bin/python3.7",
     "python.linting.mypyEnabled": false,
     "python.linting.enabled": true,
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "vsicons.dontShowNewVersionMessage": true,
-    "scm.defaultViewMode": "tree"
+    "scm.defaultViewMode": "tree",
 }
