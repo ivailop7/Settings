@@ -103,7 +103,6 @@ export LANG=en_US.UTF-8
 #
 # Example aliases
 # export LSCOLORS=""
-alias aws='ssh -i "~/wp-ivo.pem" ubuntu@ec2-34-223-234-37.us-west-2.compute.amazonaws.com'
 alias code="/mnt/c/'Program Files'/'Microsoft VS Code'/bin/code"
 alias notebook="~/.local/bin/jupyter-notebook --no-browser"
 cd /mnt/c/dev
